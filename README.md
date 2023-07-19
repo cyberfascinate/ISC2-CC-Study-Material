@@ -53,11 +53,7 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
   > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Important%20PDFs
 2. **Notes**
   > https://github.com/cyberfascinate/ISC2-CC-Study-Material/tree/main/Notes
-3. **Videos**
-  >
-4. **Flash Card** [https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/flashcard.md)
-5. **Quiz**
+3. **Flash Card**
+  > [https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/flashcard.md)
+4. **Quiz**
   > https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Quiz.md
-
-## More content
-
