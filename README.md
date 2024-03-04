@@ -57,3 +57,5 @@ This Official (ISC)² Certified in Cybersecurity (CC) self-paced course provides
   > [https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Flash%20Card.md](https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/flashcard.md)
 4. **Quiz**
   > https://github.com/cyberfascinate/ISC2-CC-Study-Material/blob/main/Quiz.md
+5. **Hindi Resources**
+   - [Hindi Playlist on YouTube](https://www.youtube.com/watch?v=JItB8DV6N9w&list=PLGUeNZBVHcelqTgh7QsYWTKpTrO4qygi8&pp=iAQB)
