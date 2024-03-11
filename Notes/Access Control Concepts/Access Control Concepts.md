@@ -25,6 +25,10 @@ Access is based on three elements:
     * Is active: It initiates a request for access to resources or services.
     * Requests a service from an object.
     * Should have a level of clearance (permissions) that relates to its ability to successfully access services or resources.
+      
+* **Objects:** Objects represent the assets or resources that subjects seek to access within an organization. These assets can take various forms, including data stored in databases or files, systems such as servers or network devices, applications used for specific purposes, physical spaces like offices or storage rooms, or any other resource that holds value to the organization. Objects serve as the targets of access requests initiated by subjects, and their protection is essential for maintaining the security and integrity of the organization's assets.
+
+* **Rules:** Rules form the foundation of the access control framework by defining the conditions under which access is granted or denied to objects. These rules establish the criteria and parameters that govern the access permissions and restrictions within the organization's environment. They can encompass a wide range of factors, including user roles and responsibilities, permissions levels, time-based access policies, location-based restrictions, and other attributes relevant to the organization's security policies. Rules ensure that access is managed in a consistent, predictable, and enforceable manner, helping to safeguard sensitive information, prevent unauthorized access, and mitigate security risks effectively.
 
 ### Controls Assessments
 
